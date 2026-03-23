@@ -38,7 +38,7 @@
 ## 🛠 기술 스택 및 아키텍처 (Tech Stack)
 
 ### 💻 Engine & Language
-* **Engine:** Unity 202X.X (LTS)
+* **Engine:** Unity 6000.4.0f1 (LTS)
 * **Language:** C#
 * **Rendering:** URP (Universal Render Pipeline) 기반 고품질 카툰 렌더링(Toon Shading) 구현 및 최적화
 
